@@ -1,6 +1,6 @@
 # Blood pricker holder
 
-*Engineering to the Rescue: A 3D-Printed Finger Prick Solution for Diabetic Patients with One Arm*
+*Engineering to the Rescue: A 3D-Printed Finger Prick Solution for Diabetic Patients with One Arm or Motor Impairment*
 
 ### The context
 As engineers, we are passionate about using our skills to solve real-world problems. That's why we were excited to develop a 3D-printed finger prick solution for diabetic patients with one arm.
@@ -11,10 +11,9 @@ The question arrived to us from the AZ Sint-Maarten hospital in Mechelen, Belgiu
 ### The solution
 Our solution is a simple, yet effective device that allows diabetic patients with one arm to prick their finger and test their blood sugar with ease.  
 The 3D print is tailored to use the [Fast Clix finger prickers from Accu-Chek](https://www.accu-chek.com/).
-The device is 3D-printed and completely free to print for everyone.
+The device is 3D-printed and completely free to print for everyone, please refer to [Printables](https://www.printables.com/model/903467-blood-pricker-holder).
 
 ![blood pricker holder](blood-pricker.gif)
-
 
 In addition, some beta patients also reported that it's just convenient to have the blood sampler in a dedicated place. Therefore, we also developed a case for mounting it or for carrying it with you.
 
