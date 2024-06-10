@@ -26,4 +26,6 @@ If you have any questions, suggestions, or remarks, please feel free to contact 
 * Satish Singh - satish.singh4545@outlook.com
 * Thomas Janssen - r8.thomasjanssen@gmail.com
 
-
+### In collaboration with
+[![UAntwerpen](https://www.uantwerpen.be/img/logo-nl.svg)](https://www.uantwerpen.be)
+[![AZ Sint-Maarten](https://www.azsintmaarten.be/sites/azsintmaarten/themes/emmaus_subtheme/logo.svg)](https://www.azsintmaarten.be/)
