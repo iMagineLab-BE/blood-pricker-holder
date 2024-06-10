@@ -21,6 +21,8 @@ We are proud to have developed this solution, which is helping to make diabetes 
 
 *DISCLAIMER: This is not a medical product, but just a hobby project. We do not take any responsibility for any injuries as a consequence of using the holder.*
 
+[![License CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ### Contact
 If you have any questions, suggestions, or remarks, please feel free to contact the iMagineLab developers:
 * Satish Singh - satish.singh4545@outlook.com
