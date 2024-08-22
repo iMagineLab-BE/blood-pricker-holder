@@ -13,7 +13,7 @@ Our solution is a simple, yet effective device that allows diabetic patients wit
 The 3D print is tailored to use the [Fast Clix finger prickers from Accu-Chek](https://www.accu-chek.com/).
 The device is 3D-printed and completely free to print for everyone, please refer to [Printables](https://www.printables.com/model/903467-blood-pricker-holder).
 
-![blood pricker holder](blood-pricker.gif)
+![Blood pricker holder](blood-pricker.gif)
 
 In addition, some beta patients also reported that it's just convenient to have the blood sampler in a dedicated place. Therefore, we also developed a case for mounting it or for carrying it with you.
 
@@ -22,6 +22,20 @@ We are proud to have developed this solution, which is helping to make diabetes 
 *DISCLAIMER: This is not a medical product, but just a hobby project. We do not take any responsibility for any injuries as a consequence of using the holder.*
 
 [![License CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+### How to print
+The blood prick holder consists of two components:
+ - Holder (Blood-pricker-holder.3mf)
+ - Dove (Blood-pricker-dove.3mf)
+
+Our recommended settings to print this model in PLA are using an infill of 15%, and using the print orientations as shown below:
+![Blood pricker holder print orientation](blood-pricker-holder-orientation.png)
+
+![Bloock pricker dove print orientation](blood-pricker-dove-orientation.png)
+
+Finally, you can slot the dove into the holder as shown in Blood-pricker-complete.3mf.
+
 
 ### Contact
 If you have any questions, suggestions, or remarks, please feel free to contact the iMagineLab developers:
