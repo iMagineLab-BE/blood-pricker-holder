@@ -38,7 +38,7 @@ Finally, you can slot the dove into the holder as shown in Blood-pricker-complet
 
 
 ### Contact
-If you have any questions, suggestions, or remarks, please feel free to contact the iMagineLab developers:
+If you have any questions, suggestions, or remarks, please feel free to contact the [iMagineLab](https://imaginelab.club) developers:
 * Satish Singh - satish.singh4545@outlook.com
 * Thomas Janssen - r8.thomasjanssen@gmail.com
 
