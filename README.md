@@ -10,7 +10,7 @@ The question arrived to us from the AZ Sint-Maarten hospital in Mechelen, Belgiu
 
 ### The solution
 Our solution is a simple, yet effective device that allows diabetic patients with one arm to prick their finger and test their blood sugar with ease.  
-The 3D print is tailored to use the [Fast Clix finger prickers from Accu-Chek](https://www.accu-chek.com/).
+The 3D print is tailored to use the [FastClix Lancing device from Accu-Chek](https://www.accu-chek.com/).
 The device is 3D-printed and completely free to print for everyone, please refer to [Printables](https://www.printables.com/model/903467-blood-pricker-holder).
 
 ![Blood pricker holder](blood-pricker.gif)
