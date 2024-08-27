@@ -29,7 +29,7 @@ The blood prick holder consists of two components:
  - Holder (Blood-pricker-holder.3mf)
  - Dove (Blood-pricker-dove.3mf)
 
-Our recommended settings to print this model in PLA are using an infill of 15%, and using the print orientations as shown below:
+Our recommended settings to print this model in PLA or PETG (stronger, but you need to adjust the print tolerance depending on your printer) are using an infill of 15%, and using the print orientations as shown below:
 ![Blood pricker holder print orientation](blood-pricker-holder-orientation.png)
 
 ![Bloock pricker dove print orientation](blood-pricker-dove-orientation.png)
