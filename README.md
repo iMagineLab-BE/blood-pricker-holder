@@ -13,6 +13,8 @@ Our solution is a simple, yet effective device that allows diabetic patients wit
 The 3D print is tailored to use the [FastClix Lancing device from Accu-Chek](https://www.accu-chek.com/).
 The device is 3D-printed and completely free to print for everyone, please refer to [Printables](https://www.printables.com/model/903467-blood-pricker-holder).
 
+![Blood pricker holder animation](Bloodpricker_Animation.gif)
+
 ![Blood pricker holder](blood-pricker.gif)
 
 In addition, some beta patients also reported that it's just convenient to have the blood sampler in a dedicated place. Therefore, we also developed a case for mounting it or for carrying it with you.
